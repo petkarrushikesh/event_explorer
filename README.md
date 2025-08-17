@@ -159,3 +159,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📄 License
 
 This project is licensed under the MIT License.
+<img width="458" height="803" alt="Screenshot 2025-08-17 225454" src="https://github.com/user-attachments/assets/7ac96289-8ad7-406f-9013-986d668703ea" />
+<img width="471" height="798" alt="Screenshot 2025-08-17 225522" src="https://github.com/user-attachments/assets/c4f0e926-e127-4aab-a74c-176fbf447846" />
+<img width="461" height="818" alt="Screenshot 2025-08-17 225625" src="https://github.com/user-attachments/assets/b49fdb7e-f6dd-474d-aa2b-a420e8d98ade" />
+<img width="453" height="790" alt="Screenshot 2025-08-17 225410" src="https://github.com/user-attachments/assets/b7684f65-f2cf-41bb-bf79-2aa0334c5f67" />
+
