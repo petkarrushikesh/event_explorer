@@ -41,6 +41,7 @@ lib/
 * 💾 Persistent storage with `shared_preferences`
 * ☁️ Cloud Firestore backend
 * 🎨 Custom fonts with `google_fonts`
+* 🌐 Fetch data via API integration
 
 ---
 
@@ -110,9 +111,42 @@ flutter test
 
 ---
 
+## 📦 Release APK
+
+To generate a release APK for Android:
+
+### 1. Build APK
+
+```bash
+flutter build apk --release
+```
+
+This will generate the APK at:
+
+```
+build/app/outputs/flutter-apk/app-release.apk
+```
+
+### 2. (Optional) Build App Bundle (for Play Store)
+
+```bash
+flutter build appbundle --release
+```
+
+This will generate an `.aab` file at:
+
+```
+build/app/outputs/bundle/release/app-release.aab
+```
+
+---
+
 ## 📌 Roadmap
 
-*
+* [ ] Add dark mode support
+* [ ] Implement event search & filtering
+* [ ] Push notifications for upcoming events
+* [ ] Offline support
 
 ---
 
@@ -125,5 +159,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📄 License
 
 This project is licensed under the MIT License.
-
-Uses api to fetch data
